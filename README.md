@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# 🎮 VegaPlay Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Présentation  
+**VegaPlay** est une plateforme de jeux en ligne compétitifs qui permet aux utilisateurs de jouer à des jeux de société populaires (dames, ludo, échecs, poker, etc.), d'affronter d'autres joueurs en ligne et de participer à des parties avec des enjeux financiers.  
 
-## Available Scripts
+### 💡 Pourquoi VegaPlay ?  
+Nous voulons rendre ces jeux classiques accessibles sur une **plateforme digitale immersive**, où les joueurs peuvent :  
+✔ **Jouer** contre d’autres personnes en ligne.  
+✔ **Participer** à des tournois avec des récompenses.  
+✔ **Parier** des mises en toute sécurité.  
+✔ **Inviter** leurs amis et **former une communauté** active de joueurs.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎯 Objectifs de VegaPlay Web  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1️⃣ **Offrir une expérience fluide et intuitive**  
+   - Interface claire et réactive.  
+   - Accès rapide aux jeux et parties en cours.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2️⃣ **Créer une communauté interactive**  
+   - Intégration d’un **système d’amis**.  
+   - Possibilité d’inviter des joueurs à une partie.  
+   - Fonctionnalités sociales évolutives (chat, classement).  
 
-### `npm test`
+3️⃣ **Gérer les transactions en toute sécurité**  
+   - Mise en place d’un **portefeuille virtuel**.  
+   - **Pari sécurisé** sur certaines parties.  
+   - **Retraits et dépôts** via des services fiables.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4️⃣ **Encourager la compétition et la progression**  
+   - **Classements dynamiques**.  
+   - Statistiques des joueurs.  
+   - **Matchmaking intelligent** pour équilibrer les parties.  
 
-### `npm run build`
+5️⃣ **Lancer un MVP rapide et tester le marché**  
+   - Développement d’abord en **application web**.  
+   - Analyse des retours utilisateurs avant une version mobile.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Technologies Utilisées  
+- **Frontend** : React.js (TypeScript, TailwindCSS).  
+- **State Management** : Redux Toolkit.  
+- **Backend** : (prévu pour la version avancée).  
+- **Authentification** : Firebase.  
+- **Transactions** : (à implémenter après validation du MVP).  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📌 Statut Actuel  
+- ✅ **Home Page & Authentification** (Inscription, Connexion).  
+- ✅ **Dashboard MVP** (Liste des jeux, portefeuille, amis).  
+- 🚧 **Prochaine étape** : Finalisation des interactions et tests.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📢 **Suivez l’évolution du projet et contribuez !**  
