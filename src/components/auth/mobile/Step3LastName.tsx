@@ -8,7 +8,7 @@ interface Props {
 
 /**
  * Étape 3 pour mobile : Saisie du nom de famille
- * Affiche un champ texte pour le nom, personnalisé avec le prénom déjà saisi.
+ * Affiche un champ texte pour le nom, personnalisé avec le prénom déjà saisi
  */
 const Step3LastName: React.FC<Props> = ({ formData, handleChange }) => {
   return (

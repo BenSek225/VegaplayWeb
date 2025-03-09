@@ -24,7 +24,7 @@ const Testimonial = () => {
 
   return (
     <section className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-20 bg-white flex flex-col items-center gap-12">
-      {/* Titre et sous-titre */}
+      {/* Titre et sous-titre; */}
       <div className="text-center max-w-3xl animate-fade-in-up">
         <h2 className="text-indigo-900 text-3xl md:text-5xl font-bold leading-tight tracking-tight mb-4">
           Ce que disent nos joueurs

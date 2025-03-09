@@ -8,7 +8,7 @@ interface Props {
 
 /**
  * Étape 1 pour mobile : Choix du genre (Monsieur/Madame)
- * Affiche deux boutons pour sélectionner le genre et met à jour formData via handleChange.
+ * Affiche deux boutons pour sélectionner le genre et met à jour formData via handleChange
  */
 const Step1Gender: React.FC<Props> = ({ formData, handleChange }) => {
   return (

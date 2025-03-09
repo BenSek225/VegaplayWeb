@@ -9,7 +9,7 @@ interface Props {
 /**
  * Étape 2 pour desktop : Informations de contact
  * Regroupe le numéro de téléphone (avec préfixe +225 et limite de 10 chiffres),
- * l’email et l’adresse (quartier en premier, ville en dernier).
+ * l’email et l’adresse (quartier en premier, ville en dernier)
  */
 const Step2ContactInfo: React.FC<Props> = ({ formData, handleChange }) => {
   // Gestion du numéro de téléphone avec préfixe +225

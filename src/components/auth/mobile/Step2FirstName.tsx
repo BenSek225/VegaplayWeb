@@ -8,7 +8,7 @@ interface Props {
 
 /**
  * Étape 2 pour mobile : Saisie du prénom
- * Affiche un champ texte pour le prénom avec un sous-titre explicatif.
+ * Affiche un champ texte pour le prénom avec un sous-titre explicatif
  */
 const Step2FirstName: React.FC<Props> = ({ formData, handleChange }) => {
   return (

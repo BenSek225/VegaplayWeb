@@ -7,7 +7,7 @@ interface Props {
 }
 
 /**
- * Étape 9 pour mobile : Saisie de l’adresse
+ * Étape 9 pour mobile : Saisie de l’adresse;
  * Affiche plusieurs champs pour la ville, le quartier, le code postal et les détails.
  */
 const Step9Address: React.FC<Props> = ({ formData, handleChange }) => {

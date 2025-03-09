@@ -11,7 +11,7 @@ import Footer from '../../components/home/Footer';
 const HomePage = () => {
   return (
       <div className="min-h-screen flex flex-col justify-start items-center bg-gray-50 overflow-hidden">
-         {/* Conteneur global avec largeur max pour un bon alignement */}
+         {/* Conteneur global avec largeur max pour un bon alignement; */}
          <div className="w-full max-w-7xl px-4 sm:px-6 lg:px-8">
             <Header />
 

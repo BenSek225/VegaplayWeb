@@ -8,7 +8,7 @@ interface Props {
 
 /**
  * Étape 5 pour mobile : Choix du pseudo
- * Affiche un champ texte pour le pseudo.
+ * Affiche un champ texte pour le pseudo
  */
 const Step5Username: React.FC<Props> = ({ formData, handleChange }) => {
   return (

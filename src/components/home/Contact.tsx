@@ -4,17 +4,17 @@ const infos = [
   {
     titre: "Discord",
     texte: "Rejoignez notre serveur",
-    icon: "https://placehold.co/24?text=D", // Remplacer par une vraie icône Discord
+    icon: "https://placehold.co/24?text=D", // Remplacer par une vraie icône Discord;
   },
   {
     titre: "Email",
     texte: "support@vegaplay.com",
-    icon: "https://placehold.co/24?text=E", // Remplacer par une icône email
+    icon: "https://placehold.co/24?text=E", // Remplacer par une icône email;
   },
   {
     titre: "Live Chat",
     texte: "Support 24/7",
-    icon: "https://placehold.co/24?text=C", // Remplacer par une icône chat
+    icon: "https://placehold.co/24?text=C", // Remplacer par une icône chat;
   },
 ];
 

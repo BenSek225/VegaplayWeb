@@ -15,7 +15,7 @@ interface Props {
 }
 
 /**
- * Étape 6 pour mobile : Saisie du mot de passe
+ * Étape 6 pour mobile : Saisie du mot de passe;
  * Affiche un champ mot de passe avec une icône de visibilité, des critères de validation et une erreur pour les espaces.
  */
 const Step6Password: React.FC<Props> = ({

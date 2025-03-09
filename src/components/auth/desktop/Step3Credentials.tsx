@@ -14,7 +14,7 @@ interface Props {
   };
 }
 
-// Code de vérification simulé (à remplacer par une API plus tard)
+// Code de vérification simulé (à remplacer par une API plus tard);
 const VALID_CONFIRMATION_CODE = "12345";
 
 const Step3Credentials: React.FC<Props> = ({

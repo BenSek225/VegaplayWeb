@@ -14,7 +14,7 @@ const ResetPasswordScreen = () => {
       setError("Veuillez entrer une adresse email valide.");
       return;
     }
-    // Simulation de réinitialisation (remplace par Firebase si besoin)
+    // Simulation de réinitialisation (remplace par Firebase si besoin);
     setSuccess("Un email de réinitialisation a été envoyé à votre adresse.");
     setError("");
     setTimeout(() => navigate("/login"), 2000); // Redirection après 2 secondes

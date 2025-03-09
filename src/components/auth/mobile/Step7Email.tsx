@@ -7,7 +7,7 @@ interface Props {
 }
 
 /**
- * Étape 7 pour mobile : Saisie de l’email
+ * Étape 7 pour mobile : Saisie de l’email;
  * Affiche un champ email avec une icône.
  */
 const Step7Email: React.FC<Props> = ({ formData, handleChange }) => {

@@ -7,7 +7,7 @@ interface Props {
 }
 
 /**
- * Étape 8 pour mobile : Saisie du numéro de téléphone
+ * Étape 8 pour mobile : Saisie du numéro de téléphone;
  * Affiche un champ téléphone avec préfixe +225 fixe et validation comme sur desktop.
  */
 const Step8PhoneNumber: React.FC<Props> = ({ formData, handleChange }) => {

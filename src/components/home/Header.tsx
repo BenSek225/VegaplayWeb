@@ -8,7 +8,7 @@ function Header() {
 
   const toggleMenu = () => setIsOpen((prev) => !prev);
 
-  // Détection du scroll
+  // Détection du scroll;
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 10);
     window.addEventListener('scroll', handleScroll);

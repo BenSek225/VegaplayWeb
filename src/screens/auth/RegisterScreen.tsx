@@ -4,7 +4,7 @@ import { useNavigate, Link } from "react-router-dom";
 // import { createUserWithEmailAndPassword } from 'firebase/auth';
 // import { doc, setDoc } from 'firebase/firestore';
 
-// Composants mobiles
+// Composants mobiles;
 import Step1Gender from "../../components/auth/mobile/Step1Gender";
 import Step2FirstName from "../../components/auth/mobile/Step2FirstName";
 import Step3LastName from "../../components/auth/mobile/Step3LastName";

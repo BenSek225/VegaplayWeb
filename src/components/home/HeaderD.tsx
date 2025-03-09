@@ -30,7 +30,7 @@ const HeaderD = () => {
           <span className="text-2xl md:text-3xl font-['Georgia']">VegaPlay</span>
         </Link>
 
-        {/* Navigation */}
+        {/* Navigation; */}
         <nav className="flex items-center space-x-6">
           <Link
             to="/dashboard"

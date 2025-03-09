@@ -10,7 +10,7 @@ interface Props {
 const VALID_CONFIRMATION_CODE = "12345";
 
 /**
- * Étape 10 pour mobile : Vérification finale
+ * Étape 10 pour mobile : Vérification finale;
  * Affiche un choix email/numéro, un champ pour le code de confirmation et les consentements, comme en desktop.
  */
 const Step10Verification: React.FC<Props> = ({ formData, handleChange }) => {

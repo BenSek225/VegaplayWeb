@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 interface FeatureCardProps {
-  icon: React.ReactNode; // Ajuste selon le type réel (ex. : ReactNode si c’est un composant)
+  icon: React.ReactNode; // Ajuste selon le type réel (ex. : ReactNode si c’est un composant);
   title: string;
   description: string;
   actionText: string;

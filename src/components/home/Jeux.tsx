@@ -10,7 +10,7 @@ const Jeux = () => {
 
   return (
     <section className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-20 bg-gray-50 flex flex-col items-center gap-12 overflow-hidden">
-      {/* Titre et description */}
+      {/* Titre et description; */}
       <div className="flex flex-col items-center text-center gap-6">
         <h2 className="text-indigo-900 text-3xl md:text-5xl font-bold leading-tight tracking-tight">
           Vos jeux préférés, en ligne

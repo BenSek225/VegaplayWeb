@@ -8,7 +8,7 @@ interface Props {
 
 /**
  * Étape 4 pour mobile : Saisie de la date de naissance
- * Affiche un champ de type date.
+ * Affiche un champ de type date
  */
 const Step4DateOfBirth: React.FC<Props> = ({ formData, handleChange }) => {
   return (

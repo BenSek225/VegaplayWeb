@@ -9,7 +9,7 @@ interface Props {
 /**
  * Étape 1 pour desktop : Informations personnelles
  * Regroupe le genre, le prénom, le nom et la date de naissance.
- * Version agrandie avec vérification d’âge en frontend.
+ * Version agrandie avec vérification d’âge en frontend
  */
 const Step1PersonalInfo: React.FC<Props> = ({ formData, handleChange }) => {
   // Calcul de l’âge à partir de la date de naissance

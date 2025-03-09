@@ -28,7 +28,7 @@ const LoginScreen = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Simulation de login (remplace par Firebase si besoin)
+    // Simulation de login (remplace par Firebase si besoin);
     if (email && password) {
       console.log("Connexion réussie avec:", { email, password });
       navigate("/dashboard");
